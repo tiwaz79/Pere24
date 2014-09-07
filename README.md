@@ -4,8 +4,8 @@ MTAT.03.138 Software Project
 
 **Team:** Sparksoft  
 •  Denis Zhadan   
-•  Vlad Bezrukov
-•  Argo Mändla
+•  Vlad Bezrukov   
+•  Argo Mändla   
 
 **Coordinators: **   
 • Üllar Lindmaa
