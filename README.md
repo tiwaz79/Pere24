@@ -1,6 +1,6 @@
 MTAT.03.138 Software Project
 =====
-**Projekti koodnimi:** Pere24 mobile
+**Pere24 mobile** 
 
 **Team:** Sparksoft  
 •  Denis Zhadan   
